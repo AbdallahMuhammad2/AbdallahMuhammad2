@@ -11,6 +11,6 @@
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-muhammad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-muhammad-1136b7248/)
 
 
